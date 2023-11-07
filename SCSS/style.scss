@@ -1,0 +1,24 @@
+//Importações globais
+
+@import 'abstract/mixins';
+@import 'abstract/variables';
+
+//Importações de Base
+
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+//Importações de components
+
+@import 'components/buttons';
+@import 'components/forms';
+@import 'components/thumbnails';
+
+//Importações de Layout
+
+@import 'layouts/advertasing';
+@import 'layouts/footer';
+@import 'layouts/header';
+@import 'layouts/main';
+@import 'layouts/aside';
