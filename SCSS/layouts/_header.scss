@@ -6,3 +6,9 @@ header {
     margin: 0 auto;
     max-width: $max-width;
 }
+
+.search-form {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
